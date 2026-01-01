@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+[![Discussion Triage](https://github.com/cli/cli/actions/workflows/triage.yml/badge.svg?event=fork)](https://github.com/cli/cli/actions/workflows/triage.yml)# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
